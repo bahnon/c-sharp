@@ -12,7 +12,7 @@ namespace data_list_1_for_admin
             
             
             //user data or whatever we need to store with the user data
-            string username = "gorgamda";
+            string username = "name_example";
             int main_password = 1146;
 
             //password can be changed by changing the str here
